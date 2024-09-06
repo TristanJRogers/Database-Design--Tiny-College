@@ -1,1 +1,1 @@
-# Database-Design--Tiny-College
+# Database_Design--Tiny_College
